@@ -1,0 +1,1570 @@
+[{
+  "_id": {
+    "$oid": "67f3caec47ab753795c9ef1c"
+  },
+  "title": "Comprehensive Ethnopharmacological Analysis of Medicinal Plants in the UAE: <i>Lawsonia inermis</i>, <i>Nigella sativa</i>, <i>Ziziphus spina-christi</i>, <i>Allium cepa</i>, <i>Allium sativum</i>, <i>Cymbopogon schoenanthus</i>, <i>Matricaria aurea</i>, <i>Phoenix dactylifera</i>, <i>Portulaca oleracea</i>, <i>Reichardia tingitana</i>, <i>Salvadora persica</i>, <i>Solanum lycopersicum</i>, <i>Trigonella foenum-graecum</i>, <i>Withania somnifera</i>, and <i>Ziziphus lotus</i>.",
+  "authors": [
+    "Razan S Almasri",
+    "Alaa S Bedir",
+    "Seham M Al Raish"
+  ],
+  "year": 0,
+  "source": "PubMed",
+  "abstract": "The United Arab Emirates (UAE) is home to diverse indigenous medicinal plants traditionally used for centuries. This study systematically evaluates the pharmacological and nutritional potential of key medicinal plants, including <i>Lawsonia inermis</i>, <i>Nigella sativa</i>, <i>Ziziphus spina-christi</i>, <i>Allium cepa</i>, <i>Allium sativum</i>, <i>Cymbopogon schoenanthus</i>, <i>Matricaria aurea</i>, <i>Phoenix dactylifera</i>, <i>Portulaca oleracea</i>, <i>Reichardia tingitana</i>, <i>Salvadora persica</i>, <i>Solanum lycopersicum</i>, <i>Trigonella foenum-graecum</i>, <i>Withania somnifera</i>, <i>and Ziziphus lotus.</i> Comprehensive literature searches were conducted using PubMed, Scopus, and Web of Science to identify studies relevant to their nutritional and pharmacological uses. The findings highlight the therapeutic roles of these plants in managing global health challenges such as gastrointestinal diseases, and antimicrobial resistance through bioactive compounds like flavonoids, polyphenols, and antioxidants. Additionally, their contributions to nutrition, including essential vitamins and minerals, are emphasized for disease prevention and health promotion. While this research focuses on the UAE, the implications are globally relevant, as many of these plants are also found in traditional medicine across Asia, Africa, and Europe. Integrating these findings into global nutritional and healthcare systems offers potential solutions for pressing public health concerns, reduces reliance on synthetic pharmaceuticals, and promotes sustainable healthcare practices. This work is a valuable reference for researchers, healthcare professionals, and policymakers, bridging traditional knowledge and modern scientific applications globally.",
+  "keywords": [
+    "bioactive compounds",
+    "dietary supplements",
+    "global nutrition",
+    "health promotion",
+    "medicinal plants",
+    "nutritional phytochemistry"
+  ],
+  "doi": "10.3390/nu17030411",
+  "journal": "Nutrients",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caec47ab753795c9ef1d"
+  },
+  "title": "Seaweeds-derived proteins and peptides: preparation, virtual screening, health-promoting effects, and industry applications.",
+  "authors": [
+    "Lu Wang",
+    "Lang Wang",
+    "Xiaoze Liu",
+    "Xue Lin",
+    "Tao Fei",
+    "Weimin Zhang"
+  ],
+  "year": 0,
+  "source": "PubMed",
+  "abstract": "Seaweed, a promising source of nutritional proteins, including protein hydrolysates, bioactive peptides, phycobiliproteins, and lectins with multi-biological activities. Seaweeds-derived proteins and peptides have attracted increasing interest for their potential applications in dietary supplements, functional foods, and pharmaceuticals industries. This work aims to comprehensively review the preparation methods and virtual screening strategies for seaweed-derived functional peptides. Additionally, it elucidates their diverse biological activities, mechanisms of action, and industrial applications. Enzymatic hydrolysis appears as the most effective method for preparing functional peptides from seaweeds. Computational virtual screening has also proven to be a valuable strategy for assessing the nature of the peptides. Seaweeds-derived proteins and peptides offer numerous health benefits, including alleviation of oxidative stress, anti-diabetic, anti-hypertensive, anti-inflammatory, anti-obesity, anti-cancer, and anti-microbial activities. Studies indicate that proteins hydrolysates and peptides derived from seaweeds with low molecular weight and aromatic and/or hydrophobic amino acids are particularly significant in contributing to these diverse bio-activities. Furthermore, seaweeds-derived proteins and peptides hold great promise for industrial applications owing to the broad spectrum of bio-functional effects. They can be used as active ingredients in food products or pharmaceuticals for disease prevention and treatment, and as food preservatives, potentially with fewer side effects.",
+  "keywords": [
+    "Seaweed",
+    "bio-active peptides",
+    "health-promoting effects",
+    "industry applications",
+    "proteins",
+    "virtual screening"
+  ],
+  "doi": "10.1080/10408398.2025.2449596",
+  "journal": "Critical reviews in food science and nutrition",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caec47ab753795c9ef1e"
+  },
+  "title": "Oleaginous Microbial Lipids' Potential in the Prevention and Treatment of Neurological Disorders.",
+  "authors": [
+    "Mariam Alhattab",
+    "Lakshana S Moorthy",
+    "Durva Patel",
+    "Christopher M M Franco",
+    "Munish Puri"
+  ],
+  "year": 0,
+  "source": "PubMed",
+  "abstract": "The products of oleaginous microbes, primarily lipids, have gained tremendous attention for their health benefits in food-based applications as supplements. However, this emerging biotechnology also offers a neuroprotective treatment/management potential for various diseases that are seldom discussed. Essential fatty acids, such as DHA, are known to make up the majority of brain phospholipid membranes and are integral to cognitive function, which forms an important defense against Alzheimer's disease. Omega-3 polyunsaturated fatty acids have also been shown to reduce recurrent epilepsy seizures and have been used in brain cancer therapies. The ratio of omega-3 to omega-6 PUFAs is essential in maintaining physiological function. Furthermore, lipids have also been employed as an effective vehicle to deliver drugs for the treatment of diseases. Lipid nanoparticle technology, used in pharmaceuticals and cosmeceuticals, has recently emerged as a biocompatible, biodegradable, low-toxicity, and high-stability means for drug delivery to address the drawbacks associated with traditional medicine delivery methods. This review aims to highlight the dual benefit that lipids offer in maintaining good health for disease prevention and in the treatment of neurological diseases.",
+  "keywords": [
+    "lipid nanoparticles",
+    "lipid neuroprotection",
+    "neurological disorders",
+    "neuroprotection",
+    "oleaginous microbes",
+    "omega-3 poly unsaturated fatty acids"
+  ],
+  "doi": "10.3390/md22020080",
+  "journal": "Marine drugs",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caec47ab753795c9ef1f"
+  },
+  "title": "Dietary supplements could prevent cardiometabolic syndrome: Are they safe and reliable enough for disease prevention and health promotion?",
+  "authors": [
+    "Istvan G Télessy",
+    "Harpal S Buttar",
+    "Douglas W Wilson",
+    "Charles Odilichukwu R Okpala"
+  ],
+  "year": 0,
+  "source": "PubMed",
+  "abstract": "Dietary supplements (DS) and their purchase is often based on a consumer's personal choice and advertisements. The associated DS regulations, particularly in manufacturing and marketing, are far more flexible and permissive than that of the well-regulated prescription pharmaceuticals. However, the adverse health effects associated with the inadvertent use of mega-doses of DS are not well understood. The demand for DS, nutraceuticals, and herbal remedies has experienced an upswing during the past two to three decades, and global product sales have thrived. More so, the prevention of cardiometabolic syndrome (CMS) and related disorders like diabetes mellitus, obesity, hypertension, and serum lipid abnormalities, as well as of other noncommunicable diseases (NCDs), is of highest health care priority globally, since these disorders impose very high economic burdens on health care systems and society. In this review, we argue why DS could prevent cardiometabolic syndrome, by providing the potential benefits and risks associated with them, especially self-medication considering their intake by the public at large. Good manufacturing practices and quality control are absolutely necessary for the manufacture of DS products, and proper labeling is needed regarding the optimal dose schedules of various DS and bioactive ingredients. Specific examples are used to underscore the indications and dosage recommendations made for the marketing and promotion of fish oil, coenzyme Q10, and Mg-containing products for the prevention of cardiometabolic syndrome.",
+  "keywords": [
+    "coenzyme-Q10",
+    "dosage",
+    "fish oil",
+    "food supplements",
+    "formulation",
+    "indication",
+    "magnesium"
+  ],
+  "doi": "10.3389/fcvm.2023.1091327",
+  "journal": "Frontiers in cardiovascular medicine",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caec47ab753795c9ef20"
+  },
+  "title": "Nutraceutical approaches to non-alcoholic fatty liver disease (NAFLD): A position paper from the International Lipid Expert Panel (ILEP).",
+  "authors": [
+    "Manfredi Rizzo",
+    "Alessandro Colletti",
+    "Peter E Penson",
+    "Niki Katsiki",
+    "Dimitri P Mikhailidis",
+    "Peter P Toth",
+    "Ioanna Gouni-Berthold",
+    "John Mancini",
+    "David Marais",
+    "Patrick Moriarty",
+    "Massimiliano Ruscica",
+    "Amirhossein Sahebkar",
+    "Dragos Vinereanu",
+    "Arrigo Francesco Giuseppe Cicero",
+    "Maciej Banach"
+  ],
+  "year": 0,
+  "source": "PubMed",
+  "abstract": "Non-Alcoholic Fatty Liver Disease (NAFLD) is a common condition affecting around 10-25% of the general adult population, 15% of children, and even > 50% of individuals who have type 2 diabetes mellitus. It is a major cause of liver-related morbidity, and cardiovascular (CV) mortality is a common cause of death. In addition to being the initial step of irreversible alterations of the liver parenchyma causing cirrhosis, about 1/6 of those who develop NASH are at risk also developing CV disease (CVD). More recently the acronym MAFLD (Metabolic Associated Fatty Liver Disease) has been preferred by many European and US specialists, providing a clearer message on the metabolic etiology of the disease. The suggestions for the management of NAFLD are like those recommended by guidelines for CVD prevention. In this context, the general approach is to prescribe physical activity and dietary changes the effect weight loss. Lifestyle change in the NAFLD patient has been supplemented in some by the use of nutraceuticals, but the evidence based for these remains uncertain. The aim of this Position Paper was to summarize the clinical evidence relating to the effect of nutraceuticals on NAFLD-related parameters. Our reading of the data is that whilst many nutraceuticals have been studied in relation to NAFLD, none have sufficient evidence to recommend their routine use; robust trials are required to appropriately address efficacy and safety.",
+  "keywords": [
+    "Dietary supplements",
+    "Liver steatosis",
+    "NAFLD",
+    "Nutraceuticals",
+    "Position paper"
+  ],
+  "doi": "10.1016/j.phrs.2023.106679",
+  "journal": "Pharmacological research",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caec47ab753795c9ef21"
+  },
+  "title": "Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life Years for 29 Cancer Groups From 2010 to 2019: A Systematic Analysis for the Global Burden of Disease Study 2019.",
+  "authors": [
+    "Jonathan M Kocarnik",
+    "Kelly Compton",
+    "Frances E Dean",
+    "Weijia Fu",
+    "Brian L Gaw",
+    "James D Harvey",
+    "Hannah Jacqueline Henrikson",
+    "Dan Lu",
+    "Alyssa Pennini",
+    "Rixing Xu",
+    "Emad Ababneh",
+    "Mohsen Abbasi-Kangevari",
+    "Hedayat Abbastabar",
+    "Sherief M Abd-Elsalam",
+    "Amir Abdoli",
+    "Aidin Abedi",
+    "Hassan Abidi",
+    "Hassan Abolhassani",
+    "Isaac Akinkunmi Adedeji",
+    "Qorinah Estiningtyas Sakilah Adnani",
+    "Shailesh M Advani",
+    "Muhammad Sohail Afzal",
+    "Mohammad Aghaali",
+    "Bright Opoku Ahinkorah",
+    "Sajjad Ahmad",
+    "Tauseef Ahmad",
+    "Ali Ahmadi",
+    "Sepideh Ahmadi",
+    "Tarik Ahmed Rashid",
+    "Yusra Ahmed Salih",
+    "Gizachew Taddesse Akalu",
+    "Addis Aklilu",
+    "Tayyaba Akram",
+    "Chisom Joyqueenet Akunna",
+    "Hanadi Al Hamad",
+    "Fares Alahdab",
+    "Ziyad Al-Aly",
+    "Saqib Ali",
+    "Yousef Alimohamadi",
+    "Vahid Alipour",
+    "Syed Mohamed Aljunid",
+    "Motasem Alkhayyat",
+    "Amir Almasi-Hashiani",
+    "Nihad A Almasri",
+    "Sadeq Ali Ali Al-Maweri",
+    "Sami Almustanyir",
+    "Nivaldo Alonso",
+    "Nelson Alvis-Guzman",
+    "Hubert Amu",
+    "Etsay Woldu Anbesu",
+    "Robert Ancuceanu",
+    "Fereshteh Ansari",
+    "Alireza Ansari-Moghaddam",
+    "Maxwell Hubert Antwi",
+    "Davood Anvari",
+    "Anayochukwu Edward Anyasodor",
+    "Muhammad Aqeel",
+    "Jalal Arabloo",
+    "Morteza Arab-Zozani",
+    "Olatunde Aremu",
+    "Hany Ariffin",
+    "Timur Aripov",
+    "Muhammad Arshad",
+    "Al Artaman",
+    "Judie Arulappan",
+    "Zatollah Asemi",
+    "Mohammad Asghari Jafarabadi",
+    "Tahira Ashraf",
+    "Prince Atorkey",
+    "Avinash Aujayeb",
+    "Marcel Ausloos",
+    "Atalel Fentahun Awedew",
+    "Beatriz Paulina Ayala Quintanilla",
+    "Temesgen Ayenew",
+    "Mohammed A Azab",
+    "Sina Azadnajafabad",
+    "Amirhossein Azari Jafari",
+    "Ghasem Azarian",
+    "Ahmed Y Azzam",
+    "Ashish D Badiye",
+    "Saeed Bahadory",
+    "Atif Amin Baig",
+    "Jennifer L Baker",
+    "Senthilkumar Balakrishnan",
+    "Maciej Banach",
+    "Till Winfried Bärnighausen",
+    "Francesco Barone-Adesi",
+    "Fabio Barra",
+    "Amadou Barrow",
+    "Masoud Behzadifar",
+    "Uzma Iqbal Belgaumi",
+    "Woldesellassie M Mequanint Bezabhe",
+    "Yihienew Mequanint Bezabih",
+    "Devidas S Bhagat",
+    "Akshaya Srikanth Bhagavathula",
+    "Nikha Bhardwaj",
+    "Pankaj Bhardwaj",
+    "Sonu Bhaskar",
+    "Krittika Bhattacharyya",
+    "Vijayalakshmi S Bhojaraja",
+    "Sadia Bibi",
+    "Ali Bijani",
+    "Antonio Biondi",
+    "Catherine Bisignano",
+    "Tone Bjørge",
+    "Archie Bleyer",
+    "Oleg Blyuss",
+    "Obasanjo Afolabi Bolarinwa",
+    "Srinivasa Rao Bolla",
+    "Dejana Braithwaite",
+    "Amanpreet Brar",
+    "Hermann Brenner",
+    "Maria Teresa Bustamante-Teixeira",
+    "Nadeem Shafique Butt",
+    "Zahid A Butt",
+    "Florentino Luciano Caetano Dos Santos",
+    "Yin Cao",
+    "Giulia Carreras",
+    "Ferrán Catalá-López",
+    "Francieli Cembranel",
+    "Ester Cerin",
+    "Achille Cernigliaro",
+    "Raja Chandra Chakinala",
+    "Soosanna Kumary Chattu",
+    "Vijay Kumar Chattu",
+    "Pankaj Chaturvedi",
+    "Odgerel Chimed-Ochir",
+    "Daniel Youngwhan Cho",
+    "Devasahayam J Christopher",
+    "Dinh-Toi Chu",
+    "Michael T Chung",
+    "Joao Conde",
+    "Sanda Cortés",
+    "Paolo Angelo Cortesi",
+    "Vera Marisa Costa",
+    "Amanda Ramos Cunha",
+    "Omid Dadras",
+    "Amare Belachew Dagnew",
+    "Saad M A Dahlawi",
+    "Xiaochen Dai",
+    "Lalit Dandona",
+    "Rakhi Dandona",
+    "Aso Mohammad Darwesh",
+    "José das Neves",
+    "Fernando Pio De la Hoz",
+    "Asmamaw Bizuneh Demis",
+    "Edgar Denova-Gutiérrez",
+    "Deepak Dhamnetiya",
+    "Mandira Lamichhane Dhimal",
+    "Meghnath Dhimal",
+    "Mostafa Dianatinasab",
+    "Daniel Diaz",
+    "Shirin Djalalinia",
+    "Huyen Phuc Do",
+    "Saeid Doaei",
+    "Fariba Dorostkar",
+    "Francisco Winter Dos Santos Figueiredo",
+    "Tim Robert Driscoll",
+    "Hedyeh Ebrahimi",
+    "Sahar Eftekharzadeh",
+    "Maha El Tantawi",
+    "Hassan El-Abid",
+    "Iffat Elbarazi",
+    "Hala Rashad Elhabashy",
+    "Muhammed Elhadi",
+    "Shaimaa I El-Jaafary",
+    "Babak Eshrati",
+    "Sharareh Eskandarieh",
+    "Firooz Esmaeilzadeh",
+    "Arash Etemadi",
+    "Sayeh Ezzikouri",
+    "Mohammed Faisaluddin",
+    "Emerito Jose A Faraon",
+    "Jawad Fares",
+    "Farshad Farzadfar",
+    "Abdullah Hamid Feroze",
+    "Simone Ferrero",
+    "Lorenzo Ferro Desideri",
+    "Irina Filip",
+    "Florian Fischer",
+    "James L Fisher",
+    "Masoud Foroutan",
+    "Takeshi Fukumoto",
+    "Peter Andras Gaal",
+    "Mohamed M Gad",
+    "Muktar A Gadanya",
+    "Silvano Gallus",
+    "Mariana Gaspar Fonseca",
+    "Abera Getachew Obsa",
+    "Mansour Ghafourifard",
+    "Ahmad Ghashghaee",
+    "Nermin Ghith",
+    "Maryam Gholamalizadeh",
+    "Syed Amir Gilani",
+    "Themba G Ginindza",
+    "Abraham Tamirat T Gizaw",
+    "James C Glasbey",
+    "Mahaveer Golechha",
+    "Pouya Goleij",
+    "Ricardo Santiago Gomez",
+    "Sameer Vali Gopalani",
+    "Giuseppe Gorini",
+    "Houman Goudarzi",
+    "Giuseppe Grosso",
+    "Mohammed Ibrahim Mohialdeen Gubari",
+    "Maximiliano Ribeiro Guerra",
+    "Avirup Guha",
+    "D Sanjeeva Gunasekera",
+    "Bhawna Gupta",
+    "Veer Bala Gupta",
+    "Vivek Kumar Gupta",
+    "Reyna Alma Gutiérrez",
+    "Nima Hafezi-Nejad",
+    "Mohammad Rifat Haider",
+    "Arvin Haj-Mirzaian",
+    "Rabih Halwani",
+    "Randah R Hamadeh",
+    "Sajid Hameed",
+    "Samer Hamidi",
+    "Asif Hanif",
+    "Shafiul Haque",
+    "Netanja I Harlianto",
+    "Josep Maria Haro",
+    "Ahmed I Hasaballah",
+    "Soheil Hassanipour",
+    "Roderick J Hay",
+    "Simon I Hay",
+    "Khezar Hayat",
+    "Golnaz Heidari",
+    "Mohammad Heidari",
+    "Brenda Yuliana Herrera-Serna",
+    "Claudiu Herteliu",
+    "Kamal Hezam",
+    "Ramesh Holla",
+    "Md Mahbub Hossain",
+    "Mohammad Bellal Hossain Hossain",
+    "Mohammad-Salar Hosseini",
+    "Mostafa Hosseini",
+    "Mehdi Hosseinzadeh",
+    "Mihaela Hostiuc",
+    "Sorin Hostiuc",
+    "Mowafa Househ",
+    "Mohamed Hsairi",
+    "Junjie Huang",
+    "Fernando N Hugo",
+    "Rabia Hussain",
+    "Nawfal R Hussein",
+    "Bing-Fang Hwang",
+    "Ivo Iavicoli",
+    "Segun Emmanuel Ibitoye",
+    "Fidelia Ida",
+    "Kevin S Ikuta",
+    "Olayinka Stephen Ilesanmi",
+    "Irena M Ilic",
+    "Milena D Ilic",
+    "Lalu Muhammad Irham",
+    "Jessica Y Islam",
+    "Rakibul M Islam",
+    "Sheikh Mohammed Shariful Islam",
+    "Nahlah Elkudssiah Ismail",
+    "Gaetano Isola",
+    "Masao Iwagami",
+    "Louis Jacob",
+    "Vardhmaan Jain",
+    "Mihajlo B Jakovljevic",
+    "Tahereh Javaheri",
+    "Shubha Jayaram",
+    "Seyed Behzad Jazayeri",
+    "Ravi Prakash Jha",
+    "Jost B Jonas",
+    "Tamas Joo",
+    "Nitin Joseph",
+    "Farahnaz Joukar",
+    "Mikk Jürisson",
+    "Ali Kabir",
+    "Danial Kahrizi",
+    "Leila R Kalankesh",
+    "Rohollah Kalhor",
+    "Feroze Kaliyadan",
+    "Yogeshwar Kalkonde",
+    "Ashwin Kamath",
+    "Nawzad Kameran Al-Salihi",
+    "Himal Kandel",
+    "Neeti Kapoor",
+    "André Karch",
+    "Ayele Semachew Kasa",
+    "Srinivasa Vittal Katikireddi",
+    "Joonas H Kauppila",
+    "Taras Kavetskyy",
+    "Sewnet Adem Kebede",
+    "Pedram Keshavarz",
+    "Mohammad Keykhaei",
+    "Yousef Saleh Khader",
+    "Rovshan Khalilov",
+    "Gulfaraz Khan",
+    "Maseer Khan",
+    "Md Nuruzzaman Khan",
+    "Moien A B Khan",
+    "Young-Ho Khang",
+    "Amir M Khater",
+    "Maryam Khayamzadeh",
+    "Gyu Ri Kim",
+    "Yun Jin Kim",
+    "Adnan Kisa",
+    "Sezer Kisa",
+    "Katarzyna Kissimova-Skarbek",
+    "Jacek A Kopec",
+    "Rajasekaran Koteeswaran",
+    "Parvaiz A Koul",
+    "Sindhura Lakshmi Koulmane Laxminarayana",
+    "Ai Koyanagi",
+    "Burcu Kucuk Bicer",
+    "Nuworza Kugbey",
+    "G Anil Kumar",
+    "Narinder Kumar",
+    "Nithin Kumar",
+    "Om P Kurmi",
+    "Tezer Kutluk",
+    "Carlo La Vecchia",
+    "Faris Hasan Lami",
+    "Iván Landires",
+    "Paolo Lauriola",
+    "Sang-Woong Lee",
+    "Shaun Wen Huey Lee",
+    "Wei-Chen Lee",
+    "Yo Han Lee",
+    "James Leigh",
+    "Elvynna Leong",
+    "Jiarui Li",
+    "Ming-Chieh Li",
+    "Xuefeng Liu",
+    "Joana A Loureiro",
+    "Raimundas Lunevicius",
+    "Muhammed Magdy Abd El Razek",
+    "Azeem Majeed",
+    "Alaa Makki",
+    "Shilpa Male",
+    "Ahmad Azam Malik",
+    "Mohammad Ali Mansournia",
+    "Santi Martini",
+    "Seyedeh Zahra Masoumi",
+    "Prashant Mathur",
+    "Martin McKee",
+    "Ravi Mehrotra",
+    "Walter Mendoza",
+    "Ritesh G Menezes",
+    "Endalkachew Worku Mengesha",
+    "Mohamed Kamal Mesregah",
+    "Tomislav Mestrovic",
+    "Junmei Miao Jonasson",
+    "Bartosz Miazgowski",
+    "Tomasz Miazgowski",
+    "Irmina Maria Michalek",
+    "Ted R Miller",
+    "Hamed Mirzaei",
+    "Hamid Reza Mirzaei",
+    "Sanjeev Misra",
+    "Prasanna Mithra",
+    "Masoud Moghadaszadeh",
+    "Karzan Abdulmuhsin Mohammad",
+    "Yousef Mohammad",
+    "Mokhtar Mohammadi",
+    "Seyyede Momeneh Mohammadi",
+    "Abdollah Mohammadian-Hafshejani",
+    "Shafiu Mohammed",
+    "Nagabhishek Moka",
+    "Ali H Mokdad",
+    "Mariam Molokhia",
+    "Lorenzo Monasta",
+    "Mohammad Ali Moni",
+    "Mohammad Amin Moosavi",
+    "Yousef Moradi",
+    "Paula Moraga",
+    "Joana Morgado-da-Costa",
+    "Shane Douglas Morrison",
+    "Abbas Mosapour",
+    "Sumaira Mubarik",
+    "Lillian Mwanri",
+    "Ahamarshan Jayaraman Nagarajan",
+    "Shankar Prasad Nagaraju",
+    "Chie Nagata",
+    "Mukhammad David Naimzada",
+    "Vinay Nangia",
+    "Atta Abbas Naqvi",
+    "Sreenivas Narasimha Swamy",
+    "Rawlance Ndejjo",
+    "Sabina O Nduaguba",
+    "Ionut Negoi",
+    "Serban Mircea Negru",
+    "Sandhya Neupane Kandel",
+    "Cuong Tat Nguyen",
+    "Huong Lan Thi Nguyen",
+    "Robina Khan Niazi",
+    "Chukwudi A Nnaji",
+    "Nurulamin M Noor",
+    "Virginia Nuñez-Samudio",
+    "Chimezie Igwegbe Nzoputam",
+    "Bogdan Oancea",
+    "Chimedsuren Ochir",
+    "Oluwakemi Ololade Odukoya",
+    "Felix Akpojene Ogbo",
+    "Andrew T Olagunju",
+    "Babayemi Oluwaseun Olakunde",
+    "Emad Omar",
+    "Ahmed Omar Bali",
+    "Abidemi E Emmanuel Omonisi",
+    "Sokking Ong",
+    "Obinna E Onwujekwe",
+    "Hans Orru",
+    "Doris V Ortega-Altamirano",
+    "Nikita Otstavnov",
+    "Stanislav S Otstavnov",
+    "Mayowa O Owolabi",
+    "Mahesh P A",
+    "Jagadish Rao Padubidri",
+    "Keyvan Pakshir",
+    "Adrian Pana",
+    "Demosthenes Panagiotakos",
+    "Songhomitra Panda-Jonas",
+    "Shahina Pardhan",
+    "Eun-Cheol Park",
+    "Eun-Kee Park",
+    "Fatemeh Pashazadeh Kan",
+    "Harsh K Patel",
+    "Jenil R Patel",
+    "Siddhartha Pati",
+    "Sanjay M Pattanshetty",
+    "Uttam Paudel",
+    "David M Pereira",
+    "Renato B Pereira",
+    "Arokiasamy Perianayagam",
+    "Julian David Pillay",
+    "Saeed Pirouzpanah",
+    "Farhad Pishgar",
+    "Indrashis Podder",
+    "Maarten J Postma",
+    "Hadi Pourjafar",
+    "Akila Prashant",
+    "Liliana Preotescu",
+    "Mohammad Rabiee",
+    "Navid Rabiee",
+    "Amir Radfar",
+    "Raghu Anekal Radhakrishnan",
+    "Venkatraman Radhakrishnan",
+    "Ata Rafiee",
+    "Fakher Rahim",
+    "Shadi Rahimzadeh",
+    "Mosiur Rahman",
+    "Muhammad Aziz Rahman",
+    "Amir Masoud Rahmani",
+    "Nazanin Rajai",
+    "Aashish Rajesh",
+    "Ivo Rakovac",
+    "Pradhum Ram",
+    "Kiana Ramezanzadeh",
+    "Kamal Ranabhat",
+    "Priyanga Ranasinghe",
+    "Chythra R Rao",
+    "Sowmya J Rao",
+    "Reza Rawassizadeh",
+    "Mohammad Sadegh Razeghinia",
+    "Andre M N Renzaho",
+    "Negar Rezaei",
+    "Nima Rezaei",
+    "Aziz Rezapour",
+    "Thomas J Roberts",
+    "Jefferson Antonio Buendia Rodriguez",
+    "Peter Rohloff",
+    "Michele Romoli",
+    "Luca Ronfani",
+    "Gholamreza Roshandel",
+    "Godfrey M Rwegerera",
+    "Manjula S",
+    "Siamak Sabour",
+    "Basema Saddik",
+    "Umar Saeed",
+    "Amirhossein Sahebkar",
+    "Harihar Sahoo",
+    "Sana Salehi",
+    "Marwa Rashad Salem",
+    "Hamideh Salimzadeh",
+    "Mehrnoosh Samaei",
+    "Abdallah M Samy",
+    "Juan Sanabria",
+    "Senthilkumar Sankararaman",
+    "Milena M Santric-Milicevic",
+    "Yaeesh Sardiwalla",
+    "Arash Sarveazad",
+    "Brijesh Sathian",
+    "Monika Sawhney",
+    "Mete Saylan",
+    "Ione Jayce Ceola Schneider",
+    "Mario Sekerija",
+    "Allen Seylani",
+    "Omid Shafaat",
+    "Zahra Shaghaghi",
+    "Masood Ali Shaikh",
+    "Erfan Shamsoddin",
+    "Mohammed Shannawaz",
+    "Rajesh Sharma",
+    "Aziz Sheikh",
+    "Sara Sheikhbahaei",
+    "Adithi Shetty",
+    "Jeevan K Shetty",
+    "Pavanchand H Shetty",
+    "Kenji Shibuya",
+    "Reza Shirkoohi",
+    "K M Shivakumar",
+    "Velizar Shivarov",
+    "Soraya Siabani",
+    "Sudeep K Siddappa Malleshappa",
+    "Diego Augusto Santos Silva",
+    "Jasvinder A Singh",
+    "Yitagesu Sintayehu",
+    "Valentin Yurievich Skryabin",
+    "Anna Aleksandrovna Skryabina",
+    "Matthew J Soeberg",
+    "Ahmad Sofi-Mahmudi",
+    "Houman Sotoudeh",
+    "Paschalis Steiropoulos",
+    "Kurt Straif",
+    "Ranjeeta Subedi",
+    "Mu'awiyyah Babale Sufiyan",
+    "Iyad Sultan",
+    "Saima Sultana",
+    "Daniel Sur",
+    "Viktória Szerencsés",
+    "Miklós Szócska",
+    "Rafael Tabarés-Seisdedos",
+    "Takahiro Tabuchi",
+    "Hooman Tadbiri",
+    "Amir Taherkhani",
+    "Ken Takahashi",
+    "Iman M Talaat",
+    "Ker-Kan Tan",
+    "Vivian Y Tat",
+    "Bemnet Amare A Tedla",
+    "Yonas Getaye Tefera",
+    "Arash Tehrani-Banihashemi",
+    "Mohamad-Hani Temsah",
+    "Fisaha Haile Tesfay",
+    "Gizachew Assefa Tessema",
+    "Rekha Thapar",
+    "Aravind Thavamani",
+    "Viveksandeep Thoguluva Chandrasekar",
+    "Nihal Thomas",
+    "Hamid Reza Tohidinik",
+    "Mathilde Touvier",
+    "Marcos Roberto Tovani-Palone",
+    "Eugenio Traini",
+    "Bach Xuan Tran",
+    "Khanh Bao Tran",
+    "Mai Thi Ngoc Tran",
+    "Jaya Prasad Tripathy",
+    "Biruk Shalmeno Tusa",
+    "Irfan Ullah",
+    "Saif Ullah",
+    "Krishna Kishore Umapathi",
+    "Bhaskaran Unnikrishnan",
+    "Era Upadhyay",
+    "Marco Vacante",
+    "Maryam Vaezi",
+    "Sahel Valadan Tahbaz",
+    "Diana Zuleika Velazquez",
+    "Massimiliano Veroux",
+    "Francesco S Violante",
+    "Vasily Vlassov",
+    "Bay Vo",
+    "Victor Volovici",
+    "Giang Thu Vu",
+    "Yasir Waheed",
+    "Richard G Wamai",
+    "Paul Ward",
+    "Yi Feng Wen",
+    "Ronny Westerman",
+    "Andrea Sylvia Winkler",
+    "Lalit Yadav",
+    "Seyed Hossein Yahyazadeh Jabbari",
+    "Lin Yang",
+    "Sanni Yaya",
+    "Taklo Simeneh Yazie Yazie",
+    "Yigizie Yeshaw",
+    "Naohiro Yonemoto",
+    "Mustafa Z Younis",
+    "Zabihollah Yousefi",
+    "Chuanhua Yu",
+    "Deniz Yuce",
+    "Ismaeel Yunusa",
+    "Vesna Zadnik",
+    "Fariba Zare",
+    "Mikhail Sergeevich Zastrozhin",
+    "Anasthasia Zastrozhina",
+    "Jianrong Zhang",
+    "Chenwen Zhong",
+    "Linghui Zhou",
+    "Cong Zhu",
+    "Arash Ziapour",
+    "Ivan R Zimmermann",
+    "Christina Fitzmaurice",
+    "Christopher J L Murray",
+    "Lisa M Force"
+  ],
+  "year": 0,
+  "source": "PubMed",
+  "abstract": "The Global Burden of Diseases, Injuries, and Risk Factors Study 2019 (GBD 2019) provided systematic estimates of incidence, morbidity, and mortality to inform local and international efforts toward reducing cancer burden. To estimate cancer burden and trends globally for 204 countries and territories and by Sociodemographic Index (SDI) quintiles from 2010 to 2019. The GBD 2019 estimation methods were used to describe cancer incidence, mortality, years lived with disability, years of life lost, and disability-adjusted life years (DALYs) in 2019 and over the past decade. Estimates are also provided by quintiles of the SDI, a composite measure of educational attainment, income per capita, and total fertility rate for those younger than 25 years. Estimates include 95% uncertainty intervals (UIs). In 2019, there were an estimated 23.6 million (95% UI, 22.2-24.9 million) new cancer cases (17.2 million when excluding nonmelanoma skin cancer) and 10.0 million (95% UI, 9.36-10.6 million) cancer deaths globally, with an estimated 250 million (235-264 million) DALYs due to cancer. Since 2010, these represented a 26.3% (95% UI, 20.3%-32.3%) increase in new cases, a 20.9% (95% UI, 14.2%-27.6%) increase in deaths, and a 16.0% (95% UI, 9.3%-22.8%) increase in DALYs. Among 22 groups of diseases and injuries in the GBD 2019 study, cancer was second only to cardiovascular diseases for the number of deaths, years of life lost, and DALYs globally in 2019. Cancer burden differed across SDI quintiles. The proportion of years lived with disability that contributed to DALYs increased with SDI, ranging from 1.4% (1.1%-1.8%) in the low SDI quintile to 5.7% (4.2%-7.1%) in the high SDI quintile. While the high SDI quintile had the highest number of new cases in 2019, the middle SDI quintile had the highest number of cancer deaths and DALYs. From 2010 to 2019, the largest percentage increase in the numbers of cases and deaths occurred in the low and low-middle SDI quintiles. The results of this systematic analysis suggest that the global burden of cancer is substantial and growing, with burden differing by SDI. These results provide comprehensive and comparable estimates that can potentially inform efforts toward equitable cancer control around the world.",
+  "keywords": [
+    "No Keywords"
+  ],
+  "doi": "10.1001/jamaoncol.2021.6987",
+  "journal": "JAMA oncology",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caed47ab753795c9ef23"
+  },
+  "title": "Unlocking the Functional Food Potential of Capparis spinosa: Optimizing Ultrasound Extraction, Phytochemical Analysis, and Assessing Antioxidative Activities",
+  "authors": [
+    "Abdulhakim Naffati",
+    "Aleksandra Mišan",
+    "Saša Kenig",
+    "Katja Kramberger",
+    "Zala Jenko Pražnikar",
+    "Ana Petelin",
+    "Aleksandra Cvetanović Kljakić",
+    "Abdelmoumen Benmerzoug",
+    "Nasrien Elfarrah",
+    "Alena Stupar"
+  ],
+  "year": 2025,
+  "source": "Europe PMC",
+  "abstract": "This study explores the potential of ultrasound-assisted extraction (UAE) for efficiently recovering bioactive compounds, particularly rutin, from the often-overlooked leaves of Capparis spinosa. By fine-tuning important extraction parameters such as ultrasound power, temperature, and ethanol concentration, the research achieved maximum yields of total phenolic content and rutin, establishing these leaves as a sustainable and valuable source of phytochemicals for applications in functional foods, nutraceuticals, and pharmaceuticals. High-performance liquid chromatography (HPLC) analysis revealed a high rutin content (15.51 mg/g DW), accompanied by considerable amounts of quercetin-3-glucoside and catechin. In vitro assays revealed the extract&#039;s strong antioxidative properties, effectively safeguarding Caco-2 and Hep G2 cells against oxidative stress and significantly lowering reactive oxygen species levels. Additionally, the extract enhanced the expression of vital antioxidative enzymes and demonstrated no toxicity at the tested concentrations, confirming its safety for dietary supplement use. These findings underscore the extract’s strong safety profile and notable bioefficacy, reinforcing its suitability for incorporation into health-oriented formulations such as functional foods, dietary supplements, or nutraceutical products. Beyond demonstrating biological relevance, this research also advances the sustainable valorization of Capparis spinosa leaf biomass—an underutilized resource with high phytochemical potential—while contributing to the development of innovative, plant-based strategies for disease prevention and overall health enhancement.",
+  "keywords": [],
+  "doi": "10.20944/preprints202503.2376.v1",
+  "last_updated": "2025-03-31",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caed47ab753795c9ef24"
+  },
+  "title": "Seaweeds-derived proteins and peptides: preparation, virtual screening, health-promoting effects, and industry applications.",
+  "authors": [
+    "Lu Wang",
+    "Lang Wang",
+    "Xiaoze Liu",
+    "Xue Lin",
+    "Tao Fei",
+    "Weimin Zhang"
+  ],
+  "year": 2025,
+  "source": "Europe PMC",
+  "abstract": "Seaweed, a promising source of nutritional proteins, including protein hydrolysates, bioactive peptides, phycobiliproteins, and lectins with multi-biological activities. Seaweeds-derived proteins and peptides have attracted increasing interest for their potential applications in dietary supplements, functional foods, and pharmaceuticals industries. This work aims to comprehensively review the preparation methods and virtual screening strategies for seaweed-derived functional peptides. Additionally, it elucidates their diverse biological activities, mechanisms of action, and industrial applications. Enzymatic hydrolysis appears as the most effective method for preparing functional peptides from seaweeds. Computational virtual screening has also proven to be a valuable strategy for assessing the nature of the peptides. Seaweeds-derived proteins and peptides offer numerous health benefits, including alleviation of oxidative stress, anti-diabetic, anti-hypertensive, anti-inflammatory, anti-obesity, anti-cancer, and anti-microbial activities. Studies indicate that proteins hydrolysates and peptides derived from seaweeds with low molecular weight and aromatic and/or hydrophobic amino acids are particularly significant in contributing to these diverse bio-activities. Furthermore, seaweeds-derived proteins and peptides hold great promise for industrial applications owing to the broad spectrum of bio-functional effects. They can be used as active ingredients in food products or pharmaceuticals for disease prevention and treatment, and as food preservatives, potentially with fewer side effects.",
+  "keywords": [
+    "Proteins",
+    "Seaweed",
+    "Virtual Screening",
+    "Health-promoting Effects",
+    "Industry Applications",
+    "Bio-active Peptides"
+  ],
+  "doi": "10.1080/10408398.2025.2449596",
+  "last_updated": "2025-01-15",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caee47ab753795c9ef25"
+  },
+  "title": "Gender and Education Influences on Dietary Supplement Awareness in Poland: A Nationally Representative Survey.",
+  "authors": [
+    "Justyna Strocka",
+    "Urszula Religioni",
+    "Justyna Kaźmierczak",
+    "Agnieszka Drab",
+    "Katarzyna Plagens-Rotman",
+    "Piotr Merks",
+    "Jarosław Pinkas",
+    "Janusz Ostrowski"
+  ],
+  "year": 2025,
+  "source": "Europe PMC",
+  "abstract": "BACKGROUND Dietary supplements (DS) are increasingly popular worldwide, with 78% of Polish adults reporting their use, and nearly half using them regularly. The wide availability, selection, and affordability contribute to this prevalence. However, misinformation and potential health risks from incorrect usage highlight the importance of health literacy in making informed choices about DS. This study aims to assess the knowledge and practices related to dietary supplement use among Polish patients. MATERIAL AND METHODS A cross-sectional survey was conducted in 2024 on a representative sample of 1,074 Polish adults, excluding healthcare professionals, using the computer-assisted web interview method. The questionnaire assessed respondents' understanding of DS, sources of information, purchasing habits, and consultations with healthcare professionals. RESULTS Most respondents (71.79%) believed they understood what a dietary supplement is. Women and individuals with higher education were more likely to claim understanding (p=0.001, p<0.00001). The Internet was the most common information source (38.64%), followed by mass media and healthcare professionals. Women and older respondents more often consulted doctors and pharmacists (p=0.002, p=0.004). Brick-and-mortar pharmacies were the preferred purchasing location (61.64%), with men more likely to use online pharmacies (p=0.0002). CONCLUSIONS The study indicates high awareness of dietary supplements among Polish adults, with significant differences based on gender and education. Despite the Internet being a major information source, healthcare professionals remain crucial for informed decision-making. Efforts are needed to enhance public health literacy and ensure safe DS use.",
+  "keywords": [],
+  "doi": "10.12659/msm.946704",
+  "last_updated": "2025-01-06",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caee47ab753795c9ef26"
+  },
+  "title": "The Role of Antioxidant Plant Extracts' Composition and Encapsulation in Dietary Supplements and Gemmo-Derivatives, as Safe Adjuvants in Metabolic and Age-Related Conditions: A Review.",
+  "authors": [
+    "Bogdan-Stefan Negreanu-Pirjol",
+    "Ticuta Negreanu-Pirjol",
+    "Florica Busuricu",
+    "Sanda Jurja",
+    "Oana Craciunescu",
+    "Ovidiu Oprea",
+    "Ludmila Motelica",
+    "Elena Iulia Oprita",
+    "Florentina Nicoleta Roncea"
+  ],
+  "year": 2024,
+  "source": "Europe PMC",
+  "abstract": "Given the current global circumstances, marked by severe environmental pollution-including the contamination of food-along with daily stress and a sedentary lifestyle, many consumers choose to improve their quality of life by using, among others, minimally processed food, food supplements, and gemmo-derivatives. Recent lab and clinical studies have shown the positive impact of specific nutrients with antioxidant capacities in the treatment of several conditions generated by oxidative stress. This paper reviews antioxidant plant extracts utilized as components in various dietary supplements and gemmoderivatives, highlighting their chemical composition and biological properties in preventing diseases caused by oxidative stress. A modern approach to food science brings to the fore the concept of dietary supplements vs. functional food, nutraceuticals, and gemmo-derivatives. The definitions of these terms are not being unanimously regulated in this respect and describe each category of compound and product, also emphasizing the need to implement adequate nutrivigilance. In order to enhance the absorption and bioavailability of dietary supplements and gemmo-derivatives based on antioxidant plant extracts, some encapsulation techniques are outlined.",
+  "keywords": [
+    "Antioxidants",
+    "Oxidative stress",
+    "Encapsulation",
+    "Dietary Supplements",
+    "Nutrivigilance",
+    "Gemmotherapy"
+  ],
+  "doi": "10.3390/ph17121738",
+  "last_updated": "2024-12-23",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caef47ab753795c9ef27"
+  },
+  "title": "Benchmarking commercially available value-added fractions with potential for production via microalgae-based biorefineries: is it worth it?",
+  "authors": [
+    "Flávio Ferreira",
+    "Joana Ortigueira",
+    "Alberto Reis",
+    "Tiago F Lopes"
+  ],
+  "year": 2025,
+  "source": "Europe PMC",
+  "abstract": "The urgent need to mitigate climate change requires finding sustainable and efficient alternatives to fossil fuel-based materials. Biosequestration by microalgae has been suggested as a potential method for climate change mitigation due to its environmentally friendly nature and ability to produce high-value compounds. However, the large-scale application of microalgal biorefineries faces significant challenges, particularly in the harvest and processing stages, which are often costly and energy-intensive. This study aims to benchmark value-added fractions that can be produced via microalgae-based biorefineries against their commercially available counterparts. A systematic review was conducted using the Web of Science™ database to identify current commercial sources of proteins, lipids, polyunsaturated fatty acids and pigments, this study identified key sectors and applications for each fraction, as well as potential market competitors. The results highlight substantial cost differences across production systems, with traditional agricultural sources demonstrating lower CAPEX but greater environmental challenges. Meanwhile, microalgal systems, although associated with higher CAPEX, offer advantages such as reduced land and water dependency, potentially leading to long-term economic resilience and environmental sustainability. By pinpointing research trends, key sectors and optimization opportunities, this work offers valuable insights into the profitability and competitiveness of microalgal systems, providing a benchmark for future optimization efforts. The novelty of this research lies in its comprehensive comparison of microalgae-based and traditional production systems, establishing a clear benchmark for microalgal production and suggesting focus areas for enhancement.",
+  "keywords": [
+    "Life Cycle Assessment",
+    "Techno-economic Assessment",
+    "Value-added Compounds",
+    "Benchmarking And Optimization",
+    "Microalgal Biorefineries"
+  ],
+  "doi": "10.1186/s13068-025-02633-6",
+  "last_updated": "2025-03-14",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caef47ab753795c9ef28"
+  },
+  "title": "Dietary supplements could prevent cardiometabolic syndrome: Are they safe and reliable enough for disease prevention and health promotion?",
+  "authors": [
+    "Istvan G Télessy",
+    "Harpal S Buttar",
+    "Douglas W Wilson",
+    "Charles Odilichukwu R Okpala"
+  ],
+  "year": 2023,
+  "source": "Europe PMC",
+  "abstract": "Dietary supplements (DS) and their purchase is often based on a consumer's personal choice and advertisements. The associated DS regulations, particularly in manufacturing and marketing, are far more flexible and permissive than that of the well-regulated prescription pharmaceuticals. However, the adverse health effects associated with the inadvertent use of mega-doses of DS are not well understood. The demand for DS, nutraceuticals, and herbal remedies has experienced an upswing during the past two to three decades, and global product sales have thrived. More so, the prevention of cardiometabolic syndrome (CMS) and related disorders like diabetes mellitus, obesity, hypertension, and serum lipid abnormalities, as well as of other noncommunicable diseases (NCDs), is of highest health care priority globally, since these disorders impose very high economic burdens on health care systems and society. In this review, we argue why DS could prevent cardiometabolic syndrome, by providing the potential benefits and risks associated with them, especially self-medication considering their intake by the public at large. Good manufacturing practices and quality control are absolutely necessary for the manufacture of DS products, and proper labeling is needed regarding the optimal dose schedules of various DS and bioactive ingredients. Specific examples are used to underscore the indications and dosage recommendations made for the marketing and promotion of fish oil, coenzyme Q10, and Mg-containing products for the prevention of cardiometabolic syndrome.",
+  "keywords": [
+    "Magnesium",
+    "Fish oil",
+    "Dosage",
+    "formulation",
+    "indication",
+    "Food Supplements",
+    "Coenzyme-q10"
+  ],
+  "doi": "10.3389/fcvm.2023.1091327",
+  "last_updated": "2023-03-22",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caef47ab753795c9ef29"
+  },
+  "title": "Next-Generation Probiotics and Chronic Diseases: A Review of Current Research and Future Directions.",
+  "authors": [
+    "Ashutosh Tiwari",
+    "Dyah Ika Krisnawati",
+    "Erna Susilowati",
+    "Chinmaya Mutalik",
+    "Tsung-Rong Kuo"
+  ],
+  "year": 2024,
+  "source": "Europe PMC",
+  "abstract": "The burgeoning field of microbiome research has profoundly reshaped our comprehension of human health, particularly highlighting the potential of probiotics and fecal microbiota transplantation (FMT) as therapeutic interventions. While the benefits of traditional probiotics are well-recognized, the efficacy and mechanisms remain ambiguous, and FMT's long-term effects are still being investigated. Recent advancements in high-throughput sequencing have identified gut microbes with significant health benefits, paving the way for next-generation probiotics (NGPs). These NGPs, engineered through synthetic biology and bioinformatics, are designed to address specific disease states with enhanced stability and viability. This review synthesizes current research on NGP stability, challenges in delivery, and their applications in preventing and treating chronic diseases such as diabetes, obesity, and cardiovascular diseases. We explore the physiological characteristics, safety profiles, and mechanisms of action of various NGP strains while also addressing the challenges and opportunities presented by their integration into clinical practice. The potential of NGPs to revolutionize microbiome-based therapies and improve clinical outcomes is immense, underscoring the need for further research to optimize their efficacy and ensure their safety.",
+  "keywords": [
+    "chronic diseases",
+    "Synthetic Biology",
+    "Hydrocolloids",
+    "Next-generation Probiotics",
+    "Microbiome-based Therapies"
+  ],
+  "doi": "10.1021/acs.jafc.4c08702",
+  "last_updated": "2024-11-26",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caef47ab753795c9ef2a"
+  },
+  "title": "Bioactivity and Bioavailability of Carotenoids Applied in Human Health: Technological Advances and Innovation.",
+  "authors": [
+    "Tomas Gabriel Bas"
+  ],
+  "year": 2024,
+  "source": "Europe PMC",
+  "abstract": "This article presents a groundbreaking perspective on carotenoids, focusing on their innovative applications and transformative potential in human health and medicine. Research jointly delves deeper into the bioactivity and bioavailability of carotenoids, revealing therapeutic uses and technological advances that have the potential to revolutionize medical treatments. We explore pioneering therapeutic applications in which carotenoids are used to treat chronic diseases such as cancer, cardiovascular disease, and age-related macular degeneration, offering novel protective mechanisms and innovative therapeutic benefits. Our study also shows cutting-edge technological innovations in carotenoid extraction and bioavailability, including the development of supramolecular carriers and advanced nanotechnology, which dramatically improve the absorption and efficacy of these compounds. These technological advances not only ensure consistent quality but also tailor carotenoid therapies to each patient's health needs, paving the way for personalized medicine. By integrating the latest scientific discoveries and innovative techniques, this research provides a prospective perspective on the clinical applications of carotenoids, establishing a new benchmark for future studies in this field. Our findings underscore the importance of optimizing carotenoid extraction, administration, bioactivity, and bioavailability methods to develop more effective, targeted, and personalized treatments, thus offering visionary insight into their potential in modern medical practices.",
+  "keywords": [
+    "Carotenoids",
+    "Bioactivity",
+    "Extraction",
+    "Personalized Medicine",
+    "Chronic Disease Prevention",
+    "Supramolecular Carriers",
+    "Advanced Bioavailability"
+  ],
+  "doi": "10.3390/ijms25147603",
+  "last_updated": "2024-07-11",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caef47ab753795c9ef2b"
+  },
+  "title": "Proteins from Microalgae: Nutritional, Functional and Bioactive Properties",
+  "authors": [
+    "Juan Pablo García-Encinas",
+    "Saul Ruiz-Cruz",
+    "Jousé Juárez",
+    "José de Jesús Ornelas-Paz",
+    "Carmen Lizette Del Toro-Sánchez",
+    "Enrique Márquez-Ríos"
+  ],
+  "year": 2025,
+  "source": "Europe PMC",
+  "abstract": "",
+  "keywords": [
+    "Proteins",
+    "Extraction",
+    "Digestibility",
+    "Microalgae",
+    "Functional properties",
+    "Nutritional Properties"
+  ],
+  "doi": "",
+  "last_updated": "2025-03-01",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf047ab753795c9ef2c"
+  },
+  "title": "The Future of Microbiome Therapeutics.",
+  "authors": [
+    "Milena Pitashny",
+    "Inbar Kesten",
+    "Dima Shlon",
+    "Dana Ben Hur",
+    "Haggai Bar-Yoseph"
+  ],
+  "year": 2025,
+  "source": "Europe PMC",
+  "abstract": "The human microbiome exerts profound influence over various biological processes within the body. Unlike many host determinants, it represents a readily accessible target for manipulation to promote health benefits. However, existing commercial microbiome-directed products often exhibit low efficacy. Advancements in technology are paving the way for the development of novel microbiome therapeutics, across a wide range of indications. In this narrative review, we provide an overview of state-of-the-art technologies in late-stage development, examining their advantages and limitations. By covering a spectrum, from fecal-derived products to live biotherapeutics, phage therapy, and synthetic biology, we illuminate the path toward the future of microbiome therapeutics.",
+  "keywords": [],
+  "doi": "10.1007/s40265-024-02107-3",
+  "last_updated": "2025-01-23",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf847ab753795c9ef2e"
+  },
+  "title": "The frontier between nutrition and pharma: The international regulatory framework of functional foods, food supplements and nutraceuticals",
+  "authors": "L Domínguez Díaz, V Fernández-Ruiz",
+  "year": 2020,
+  "source": "Google Scholar",
+  "abstract": "balance of micro- and macronutrients and pharmaceuticals have traditionally been used for   Improvements needed in overseeing the safety of dietary supplements and “functional foods",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf847ab753795c9ef2f"
+  },
+  "title": "Corporate characteristics and adoption of good manufacturing practice for dietary supplements in Japan",
+  "authors": "K Sato, K Kodama, S Sengoku",
+  "year": 2020,
+  "source": "Google Scholar",
+  "abstract": "use functional food and dietary supplements for health promotion and disease prevention, as  well  In the United States, GMP for pharmaceuticals was formalized in 1962 [14]. Until 1994,",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf847ab753795c9ef30"
+  },
+  "title": "Review on nutraceuticals: phase transition from preventive to protective care",
+  "authors": "N Jain, A Radhakrishnan",
+  "year": 2022,
+  "source": "Google Scholar",
+  "abstract": "nutrients, herbals, and dietary supplements, which make them  in which foods, dietary  supplements, and botanical medicines are  and may be used for disease prevention or therapy”",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf847ab753795c9ef31"
+  },
+  "title": "Dietary supplements could prevent cardiometabolic syndrome: Are they safe and reliable enough for disease prevention and health promotion?",
+  "authors": "IG Télessy, HS Buttar, DW Wilson",
+  "year": 2023,
+  "source": "Google Scholar",
+  "abstract": "As the LADME (liberation-absorption-distribution-metabolism-excretion) process is similar  for pharmaceuticals and dietary supplements, the formulation that determines the liberation of",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf847ab753795c9ef32"
+  },
+  "title": "Nutraceuticals and dietary supplements: balancing out the pros and cons",
+  "authors": "F Fernandes, M Carocho, MA Prieto, L Barros",
+  "year": 2024,
+  "source": "Google Scholar",
+  "abstract": "of nutraceutical products and dietary supplements can play an  use of nutraceuticals with  disease prevention. Regarding the  (dietary supplements, fortified foods, and pharmaceuticals)",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf847ab753795c9ef33"
+  },
+  "title": "Multivitamins and supplements—benign prevention or potentially harmful distraction?",
+  "authors": "J Jia, NA Cameron, JA Linder",
+  "year": 2022,
+  "source": "Google Scholar",
+  "abstract": "community resources are essential for equitable chronic disease prevention. At the local level,   as those of pharmaceuticals. Many patients do not report their use of dietary supplements,",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf947ab753795c9ef34"
+  },
+  "title": "Clinical Studies on Nutraceuticals and Dietary Supplements",
+  "authors": "S Gopi, A Amalraj, A Nair, D Chandradhara",
+  "year": 2022,
+  "source": "Google Scholar",
+  "abstract": "of nutraceuticals and dietary supplements including around  various nutraceuticals and dietary  supplements to the readers nutraceuticals as well as dietary supplements providing a dais",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf947ab753795c9ef35"
+  },
+  "title": "Nutraceuticals as a natural alternative for preventive and proactive health care",
+  "authors": "A Visen, S Visen, A Sharma, PKS Visen",
+  "year": 2022,
+  "source": "Google Scholar",
+  "abstract": "Nutraceuticals are often confused with dietary supplements  These offer opportunities for  pharmaceuticals companies to  of human health and disease prevention, health professional,",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf947ab753795c9ef36"
+  },
+  "title": "Exploring the Dietary Supplement Use During COVID-19: Insights from Community Pharmacists, Pharmacy Staff, Academics, and Industry Experts",
+  "authors": "L Yumrukaya, B Sözen-Şahne, İ Saraçoğlu",
+  "year": 2024,
+  "source": "Google Scholar",
+  "abstract": "interest in alternative solutions such as dietary supplements.  In contrast to pharmaceuticals,  dietary supplement  Online information seeking and disease prevention intent during COVID-",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3caf947ab753795c9ef37"
+  },
+  "title": "Nutraceuticals: role in metabolic disease, prevention and treatment",
+  "authors": "BO Adetuyi, GO Odine, PA Olajide",
+  "year": 2022,
+  "source": "Google Scholar",
+  "abstract": "Mostly, nutraceuticals are grouped into four categories that include dietary supplements,   They are being used as alternative or supplemental treatment along with pharmaceuticals to",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d29f47ab753795c9ef39"
+  },
+  "title": "Dietary supplements could prevent cardiometabolic syndrome: Are they safe and reliable enough for disease prevention and health promotion?",
+  "authors": [
+    "I. Télessy",
+    "H. Buttar",
+    "Douglas W. Wilson",
+    "C. Okpala"
+  ],
+  "year": 2023,
+  "source": "Semantic Scholar",
+  "abstract": "Dietary supplements (DS) and their purchase is often based on a consumer's personal choice and advertisements. The associated DS regulations, particularly in manufacturing and marketing, are far more flexible and permissive than that of the well-regulated prescription pharmaceuticals. However, the adverse health effects associated with the inadvertent use of mega-doses of DS are not well understood. The demand for DS, nutraceuticals, and herbal remedies has experienced an upswing during the past two to three decades, and global product sales have thrived. More so, the prevention of cardiometabolic syndrome (CMS) and related disorders like diabetes mellitus, obesity, hypertension, and serum lipid abnormalities, as well as of other noncommunicable diseases (NCDs), is of highest health care priority globally, since these disorders impose very high economic burdens on health care systems and society. In this review, we argue why DS could prevent cardiometabolic syndrome, by providing the potential benefits and risks associated with them, especially self-medication considering their intake by the public at large. Good manufacturing practices and quality control are absolutely necessary for the manufacture of DS products, and proper labeling is needed regarding the optimal dose schedules of various DS and bioactive ingredients. Specific examples are used to underscore the indications and dosage recommendations made for the marketing and promotion of fish oil, coenzyme Q10, and Mg-containing products for the prevention of cardiometabolic syndrome.",
+  "keywords": [],
+  "doi": "10.3389/fcvm.2023.1091327",
+  "journal": "Frontiers in Cardiovascular Medicine",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d37c94885e75747e7e6d"
+  },
+  "title": "Urinalysis in primary care doctor practice",
+  "authors": [
+    "Bartłomiej Szewczyk",
+    "Kamila Szewczyk",
+    "Paulina Pytel",
+    "Wiktoria Julia Krzesłowska",
+    "Weronika Hołownia",
+    "Szymon Wiśniewski"
+  ],
+  "year": 2024,
+  "source": "Semantic Scholar",
+  "abstract": "Introduction:\nA urinalysis is a simple diagnostic test which is used to detect wide range of disorders including urinary tract infections, kidney disease and diabetes. Moreover, it can be an useful tool to monitor a medical condition. A urine analysis might be a part of routine medical exam in order to check patient’s health condition but it is not recommended as a preventive screening test in the population. We believe that this article will contribute to spreading important knowledge especially in primary care.\nAim of the study:\nThe aim of the article is to collect and summarize basic information on urinalysis. We collected elemental information about routine urine examination, which includes assessment of physical properties, chemical properties and sediment composition. This knowledge is useful in the daily practice of a primary care doctor.\nMaterial and methods:\nLiterature available in the PubMed database, ScienceDirect and ClinicalKey was reviewed using the following keywords: “Urinalysis”;  “Urine sediment”, “Urinary tract infection”\nConclusions:\nThe ability of proper urine analysis is crucial in clinical practice. Performing the test is technically simple and widely available. It is important to be aware of the limitations of urine analysis. Therefore if results of urinalysis is unusual, it is necessary to require more testing to find the source of the medical issue.",
+  "keywords": [],
+  "doi": "10.12775/jehs.2024.70.49948",
+  "journal": "Journal of Education, Health and Sport",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "preventive screening"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38394885e75747e7e6f"
+  },
+  "title": "Factors associated with breast cancer screening services use among women in the United States: An application of the Andersen's Behavioral Model of Health Services Use.",
+  "authors": [
+    "Marie-Rachelle Narcisse",
+    "Sumit K Shah",
+    "Emily Hallgren",
+    "Holly C Felix",
+    "Mario Schootman",
+    "Pearl A McElfish"
+  ],
+  "year": 2023,
+  "source": "Europe PMC",
+  "abstract": "This study applied Andersen's Behavioral Model of Health Services Use to examine predisposing, enabling, and need factors associated with adherence to the United States Preventive Services Task Force (USPSTF) guidelines for breast cancer screening (BCS). Multivariable logistic regression was used to determine factors of BCS services utilization among 5484 women aged 50-74 from the 2019 National Health Interview Survey. Predisposing factors significantly associated with use of BCS services were: being a Black (odds-ratios [OR]:1.49; 95% confidence interval [CI]:1.14-1.95) or a Hispanic woman (OR:2.25; CI:1.62-3.12); being married/partnered (OR:1.32, CI:1.12-1.55); having more than a bachelor's degree (OR: 1.62; CI:1.14-2.30); and living in rural areas (OR:0.72; CI:0.59-0.92). Enabling factors were: poverty level [≤138% federal poverty level (FPL) (OR:0.74; CI:0.56-0.97), >138-250% FPL (OR:0.77; CI:0.61-0.97), and > 250-400% FPL (OR:0.77; CI:0.63-0.94)]; being uninsured (OR:0.29; CI:0.21-0.40); having a usual source of care at a physician office (OR:7.27; CI:4.99-10.57) or other healthcare facilities (OR:4.12; CI:2.68-6.33); and previous breast examination by a healthcare professional (OR:2.10; CI:1.68-2.64). Need factors were: having fair/poor health (OR:0.76; CI:0.59-0.97) and being underweight (OR:0.46; CI:0.30-0.71). Disparities in BCS services utilization by Black and Hispanic women have been reduced. Disparities still exist for uninsured and financially restrained women living in rural areas. Addressing disparities in BCS uptake and improving adherence to USPSTF guidelines may require revamping policies that address disparities in enabling resources, such as health insurance, income, and health care access.",
+  "keywords": [
+    "United States",
+    "National Health Interview Survey",
+    "Breast Cancer Screening",
+    "Andersen'S Behavioral Model Of Health Services Use"
+  ],
+  "doi": "10.1016/j.ypmed.2023.107545",
+  "last_updated": "2023-05-16",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "cancer screening"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38394885e75747e7e70"
+  },
+  "title": "Receipt of preventive health services in young adults.",
+  "authors": [
+    "Josephine S Lau",
+    "Sally H Adams",
+    "Charles E Irwin",
+    "Elizabeth M Ozer"
+  ],
+  "year": 2013,
+  "source": "Europe PMC",
+  "abstract": "<h4>Purpose</h4>To examine self-reported rates and disparities in delivery of preventive services to young adults.<h4>Methods</h4>A population-based cross-sectional analysis, of 3,670 and 3,621 young adults aged 18-26 years who responded to California Health Interview Survey (CHIS) in 2005 and CHIS 2007, respectively. The main outcome measures were self-reported receipt of flu vaccination, sexually transmitted disease (STD) screening, cholesterol screening, diet counseling, exercise counseling, and emotional health screening. Multivariate logistic regression was used to examine how age, gender, race/ethnicity, income, insurance, and usual source of care influence the receipt of preventive services.<h4>Results</h4>Delivery rates ranged from 16.7% (flu vaccine) to 50.6% (cholesterol screening). Being female and having a usual source of care significantly increased receipt of services, with female participants more likely to receive STD screening (p < .001), cholesterol screening (p < .01), emotional health screening (p < .001), diet counseling (p < .01), and exercise counseling (p < .05) than male participants after controlling for age, race/ethnicity, income, insurance, and usual source of care. Young adults with a usual source of care were more likely to receive a flu vaccine (p < .05), STD screening (p < .01), cholesterol screening (p < .001), diet counseling (p < .05), and exercise counseling (p < .05) than those without a usual source of care after adjusting for age, race/ethnicity, income, and insurance.<h4>Conclusions</h4>Rates of preventive services delivery are generally low. Greater efforts are needed to develop guidelines for young adults to increase the delivery of preventive care to this age-group, and to address the gender and ethnic/racial disparities in preventive services delivery.",
+  "keywords": [],
+  "doi": "10.1016/j.jadohealth.2012.04.017",
+  "last_updated": "2012-07-06",
+  "spacy_entities": [
+    [
+      "vaccination",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ],
+    [
+      "preventive care",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "vaccination",
+      "preventive care"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38494885e75747e7e71"
+  },
+  "title": "Unfavorable perceived neighborhood environment associates with less routine healthcare utilization: Data from the Dallas Heart Study.",
+  "authors": [
+    "Joniqua N Ceasar",
+    "Colby Ayers",
+    "Marcus R Andrews",
+    "Sophie E Claudel",
+    "Kosuke Tamura",
+    "Sandeep Das",
+    "James de Lemos",
+    "Ian J Neeland",
+    "Tiffany M Powell-Wiley"
+  ],
+  "year": 2020,
+  "source": "Europe PMC",
+  "abstract": "Neighborhood environment perception (NEP) has been associated with health outcomes. However, little is known about how NEP relates to routine healthcare utilization. This study investigated the relationship between NEP and independent subfactors with healthcare utilization behavior, as measured by self-reported (1) usual source of healthcare and (2) time since last routine healthcare check-up. We used cross-sectional data from the Dallas Heart Study, which features a diverse, probability-based sample of Dallas County residents ages 18 to 65. We used logistic regression modeling to examine the association of self-reported NEP and routine healthcare utilization. NEP was assessed via a questionnaire exploring residents' neighborhood perceptions, including violence, the physical environment, and social cohesion. Routine healthcare utilization was assessed via self-reported responses regarding usual source of care and time since last routine healthcare check-up. The analytic sample (N = 1706) was 58% black, 27% white, 15% Hispanic, 42% male, and had a mean age of 51 (SD = 10.3). Analysis of NEP by tertile demonstrated that younger age, lower income, and lower education were associated with unfavorable overall NEP (p trend <0.05 for each). After adjustment for potential confounders, including neighborhood deprivation, health insurance, disease burden and psychosocial factors, we found that individuals with more unfavorable perception of their physical environment were more likely to report lack of a usual source of care (p = 0.013). Individuals with more unfavorable perception of the neighborhood physical environment or greater neighborhood violence reported longer time periods since last routine visit (p = 0.001, p = 0.034 respectively). There was no relationship between perceived social cohesion and healthcare utilization. Using a multi-ethnic cohort, we found that NEP significantly associates with report of a usual source of care and time since last routine check-up. Our findings suggest that public health professionals should prioritize improving NEP since it may act as barrier to routine preventive healthcare and ideal health outcomes.",
+  "keywords": [],
+  "doi": "10.1371/journal.pone.0230041",
+  "last_updated": "2020-03-12",
+  "spacy_entities": [
+    [
+      "checkup",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "checkup",
+      "checkup",
+      "checkup"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38494885e75747e7e72"
+  },
+  "title": "Abstracts 2022 North American Meeting for the Society of Medical Decision Making, October 23-26, 2022",
+  "authors": [],
+  "year": 2023,
+  "source": "Europe PMC",
+  "abstract": "",
+  "keywords": [],
+  "doi": "",
+  "last_updated": "2023-02-25",
+  "spacy_entities": [
+    [
+      "checkup",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "checkup",
+      "checkup",
+      "checkup"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38494885e75747e7e73"
+  },
+  "title": "Abstracts from the 2022 Annual Meeting of the Society of General Internal Medicine",
+  "authors": [],
+  "year": 2022,
+  "source": "Europe PMC",
+  "abstract": "",
+  "keywords": [],
+  "doi": "",
+  "last_updated": "2022-06-01",
+  "spacy_entities": [
+    [
+      "checkup",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "checkup",
+      "checkup",
+      "checkup"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38894885e75747e7e75"
+  },
+  "title": "Factors associated with breast cancer screening services use among women in the United States: an application of the andersen's behavioral model of health services …",
+  "authors": "MR Narcisse, SK Shah, E Hallgren, HC Felix",
+  "year": 2023,
+  "source": "Google Scholar",
+  "abstract": "This study applied Andersen's Behavioral Model of Health Services Use to examine predisposing,  enabling, and need factors associated with adherence to the United States Preventive",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38894885e75747e7e76"
+  },
+  "title": "Unfavorable perceived neighborhood environment associates with less routine healthcare utilization: Data from the Dallas Heart Study",
+  "authors": "JN Ceasar, C Ayers, MR Andrews, SE Claudel",
+  "year": 2020,
+  "source": "Google Scholar",
+  "abstract": "go to when you need a routine exam, are sick, or need advice  influential in obtaining preventive  care or screening services  of dental visits and receipt of health screening services [19,20",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [
+    [
+      "preventive care",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "routine exam",
+      "preventive care"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38894885e75747e7e77"
+  },
+  "title": "Preventative and Primary Care for Persons With Intellectual Disability",
+  "authors": "M Robinson, D Stumpf",
+  "year": 2024,
+  "source": "Google Scholar",
+  "abstract": "people with intellectual disability are to provide general, physical, behavioral, and mental  health recommendations, especially for those conditions not typically found on a routine exam.",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "routine exam"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38894885e75747e7e78"
+  },
+  "title": "Customized Ob/Gyn Management for Diverse Populations",
+  "authors": "G Bachmann, J Hutchinson-Colas",
+  "year": 2024,
+  "source": "Google Scholar",
+  "abstract": "Grad et al. describe shared decision making in preventive care as a process whereby  clinicians collaboratively help patients to reach evidence-informed and medical decisions",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [
+    [
+      "preventive care",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "preventive care"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "67f3d38894885e75747e7e79"
+  },
+  "title": "Mexican Immigrant Women and Cervical Cancer Screening Beliefs and the Pap Test–A Look at Spousal Support",
+  "authors": "S Vargas",
+  "year": 2023,
+  "source": "Google Scholar",
+  "abstract": "MIW’s lack of CC screening and access to preventive care is complex. Migrating from   These changes can be identified during a routine exam and Pap test, which may be combined",
+  "keywords": [],
+  "doi": "No DOI",
+  "journal": "No Journal Info",
+  "last_updated": "",
+  "spacy_entities": [
+    [
+      "preventive care",
+      "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE"
+    ]
+  ],
+  "spacy_matched_terms": {
+    "\n        \"DISEASE\": [doc[start:end].text for _, start, end in disease_matcher(doc)],\n        \"SUPPLEMENT\": [doc[start:end].text for _, start, end in supplement_matcher(doc)],\n        \"PHARMACEUTICAL\": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],\n        \"MEDICAL_CONCEPT\": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]\n        PREVENTIVE": [
+      "preventive care",
+      "routine exam"
+    ]
+  }
+}]
