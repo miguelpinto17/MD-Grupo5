@@ -1,0 +1,66 @@
+{
+    "General Exams": [
+      "preventive medicine",
+      "health screening",
+      "routine medical check-up",
+      "periodic health examination",
+      "wellness visit",
+      "early disease detection"
+    ],
+    "Vaccinations": [
+      "adult vaccination schedule",
+      "vaccination boosters",
+      "travel vaccines",
+      "HPV vaccination",
+      "pneumococcal vaccine elderly",
+      "immunization guidelines"
+    ],
+    "Chronic Disease Prevention": [
+      "hypertension prevention",
+      "diabetes screening",
+      "obesity prevention",
+      "smoking cessation programs",
+      "alcohol use screening"
+    ],
+    "Genetic Preventive Exams": [
+      "genetic screening",
+      "hereditary cancer syndromes",
+      "BRCA testing",
+      "pharmacogenomics for preventive care"
+    ],
+    "Mental Health Preventive Care": [
+      "mental health screening",
+      "depression screening",
+      "anxiety screening",
+      "cognitive screening"
+    ],
+    "Child Preventive Health": [
+      "neonatal screening tests",
+      "child immunization schedule",
+      "developmental milestones check-up"
+    ],
+    "Geriatric Preventive Health": [
+      "frailty screening",
+      "fall risk assessment",
+      "bone density testing"
+    ],
+    "Cancer Prevention": [
+      "mammography",
+      "colonoscopy",
+      "Pap smear",
+      "PSA testing",
+      "cancer early detection"
+    ],
+    "Occupational Health": [
+      "occupational hazard screening",
+      "preventive check-ups for workers",
+      "ergonomics assessment"
+    ],
+    "Standards and Guidelines": [
+      "USPSTF recommendations",
+      "WHO preventive care guidelines",
+      "CDC health screening guidelines",
+      "evidence-based preventive services"
+    ]
+  }
+  
