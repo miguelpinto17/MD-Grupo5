@@ -1,0 +1,18 @@
+name: nutribot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - spacy==3.7.4
+      - scispacy==0.5.4
+      - rich
+      - requests
+      - beautifulsoup4
+      - pymongo
+      - python-dotenv
+      - scholarly
+      - biopython
+      - wikipedia-api
