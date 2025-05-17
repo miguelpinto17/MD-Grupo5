@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 from tqdm import tqdm
-from modules.spaCy_utils import process_text, chunk_text
+from modules.spaCy_utils import chunk_text
 
 def configure_mongoDB_connection():
     """Configure MongoDB connection."""
@@ -13,20 +13,19 @@ def configure_mongoDB_connection():
 
 
 
-def save_to_mongo(papers, source):
-    """Save articles to MongoDB."""
+def save_to_mongo(papers, source, topic):
+    """Save articles to MongoDB in chunked format with dynamic topic."""
     if not papers:
         print("No articles to save.")
         return
 
     collection = configure_mongoDB_connection()
     chunk_limit = 150  
-    topic = "checkups_preventive_medicine"  
 
     for idx, paper in enumerate(tqdm(papers, desc=f"Saving {source} articles to MongoDB")):
         title = paper.get("title", "")
         abstract = paper.get("abstract", "") or paper.get("abstractText", "")
-        year = str(paper.get("year", ""))  # como string
+        year = str(paper.get("year", ""))
         link = paper.get("doi", "") or paper.get("externalIds", {}).get("DOI", "")
         if link and not link.startswith("http"):
             link = f"https://doi.org/{link}"
@@ -34,21 +33,19 @@ def save_to_mongo(papers, source):
             link = paper.get("pub_url", "") or paper.get("url", "") or "No link available"
 
         if not abstract.strip():
-            continue  
+            continue
 
-        
-        chunks = [chunk_text(abstract, max_words=chunk_limit)]
-        for cidx, chunk in enumerate(chunks):
-            doc = {
-                "chunk_id": f"Paper{idx + 1}Chunk{cidx}",
-                "chunk_text": chunk,
-                "title": title,
-                "link": link,
-                "year": year,
-                "topic": topic,
-                "hierarchical_level": 2
-            }
-            collection.insert_one(doc)
+        chunk = chunk_text(abstract, max_words=chunk_limit)
+        doc = {
+            "chunk_id": f"Paper{idx + 1}Chunk0",
+            "chunk_text": chunk,
+            "title": title,
+            "link": link,
+            "year": year,
+            "topic": topic,
+            "hierarchical_level": 2
+        }
+        collection.insert_one(doc)
 
     print("All chunked articles have been saved with the required structure!")
 

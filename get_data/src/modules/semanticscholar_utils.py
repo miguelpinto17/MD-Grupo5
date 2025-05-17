@@ -20,5 +20,5 @@ def fetch_papers(query, num_results):
 def search_semanticscholar(query, num_results, year_range=None):
     """Fetch articles from the Semantic Scholar API and save them to MongoDB."""
     papers = fetch_papers(query, num_results)
-    save_to_mongo(papers, "Semantic Scholar")
+    save_to_mongo(papers, "Semantic Scholar", query)
     return papers

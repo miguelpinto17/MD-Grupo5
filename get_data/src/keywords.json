@@ -1,5 +1,8 @@
 {
-    "checkups_preventive_medicine": [
-        "medical check-up"
-    ]
+  "checkups_preventive_medicine": [
+    "medical check-up", "annual physical", "preventive screening", "blood test",
+    "cholesterol test", "blood pressure monitoring", "cancer screening",
+    "health risk assessment", "vaccination", "routine exam", "wellness visit",
+    "preventive care", "colonoscopy", "mammogram", "pap smear", "check-up"
+  ]
 }

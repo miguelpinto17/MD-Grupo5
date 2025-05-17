@@ -88,12 +88,6 @@ def process_text(text):
 
     # Extract matched terms
     matches = {
-        '''
-        "DISEASE": [doc[start:end].text for _, start, end in disease_matcher(doc)],
-        "SUPPLEMENT": [doc[start:end].text for _, start, end in supplement_matcher(doc)],
-        "PHARMACEUTICAL": [doc[start:end].text for _, start, end in pharmaceutical_matcher(doc)],
-        "MEDICAL_CONCEPT": [doc[start:end].text for _, start, end in medical_concept_matcher(doc)]
-        '''
         
         "PREVENTIVE": [doc[start:end].text for _, start, end in preventive_matcher(doc)]
     }

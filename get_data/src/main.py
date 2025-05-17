@@ -1,5 +1,6 @@
 from rich.console import Console
 from rich.prompt import Prompt
+import json
 from modules.europePMC_utils import search_europe_pmc
 from modules.googleScholar_utils import search_google_scholar
 from modules.menu_utils import display_menu
@@ -24,7 +25,8 @@ def search_and_print(source, func, query, max_articles=1, year_range=(2020, 2025
 def main():
     """Runs searches based on user choice."""
     console = Console()
-    query = '("preventive services" AND "primary prevention" AND "secondary prevention")'
+    with open("keywords.json", "r", encoding="utf-8") as f:
+        keywords_by_topic = json.load(f)
     
     sources = {
         "1": ("PubMed", search_pubmed),
@@ -41,21 +43,38 @@ def main():
             console.print("\n[bold red]🚪 Exiting...[/bold red]")
             break
         elif choice in sources:
+            max_articles = int(Prompt.ask("[bold white]How many articles per keyword?[/bold white]", default="1"))
+            year_range = (2020, 2025)
+
             if choice == "6":
-                max_articles = int(Prompt.ask("[bold white]How many articles per source?[/bold white]", default="1"))
-                for key, (source_name, search_func) in sources.items():
-                    if key != "4" and key != "6":  # Exclude Wikipedia and All Sources
-                        search_and_print(source_name, search_func, query, max_articles)
+                # All sources (except Wikipedia)
+                for topic, keywords in keywords_by_topic.items():
+                    for keyword in keywords:
+                        console.print(f"\n[bold cyan]🔎 Topic: [yellow]{topic}[/yellow] — Keyword: [green]{keyword}[/green][/bold cyan]")
+                        for key, (source_name, search_func) in sources.items():
+                            if key in ["4", "6"]:
+                                continue  # Skip Wikipedia and this "All" key
+                            try:
+                                search_func(keyword, max_articles, year_range)
+                            except Exception as e:
+                                console.print(f"[red]❌ Error in {source_name} with '{keyword}': {e}[/red]")
             else:
+                # One specific source
                 source_name, search_func = sources[choice]
                 if source_name == "Wikipedia":
-                    query = Prompt.ask("[bold white]Enter a search term:[/bold white]")
-                    search_and_print(source_name, search_func, query)
-                else:
-                    max_articles = int(Prompt.ask("[bold white]How many articles?[/bold white]", default="1"))
-                    search_and_print(source_name, search_func, query, max_articles)
+                    console.print("[yellow]Wikipedia is not included in automatic keyword search.[/yellow]")
+                    continue
+
+                for topic, keywords in keywords_by_topic.items():
+                    for keyword in keywords:
+                        console.print(f"\n[bold cyan]🔎 Topic: [yellow]{topic}[/yellow] — Keyword: [green]{keyword}[/green][/bold cyan]")
+                        try:
+                            search_func(keyword, max_articles, year_range)
+                        except Exception as e:
+                            console.print(f"[red]❌ Error in {source_name} with '{keyword}': {e}[/red]")
         else:
             console.print("\n[bold red]❌ Invalid choice! Please select a valid option.[/bold red]")
+
 
 if __name__ == "__main__":
     main()

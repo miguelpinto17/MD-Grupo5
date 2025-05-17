@@ -63,13 +63,13 @@ def search_pubmed(query, num_results, year_range=None):
     
     if year_range:
         start_year, end_year = year_range
-        query += f" AND ({start_year}[PDAT] : {end_year}[PDAT])"
+        nquery = query + f" AND ({start_year}[PDAT] : {end_year}[PDAT])"
 
-    with Entrez.esearch(db="pubmed", term=query, retmax=num_results, sort="pub_date") as handle:
+    with Entrez.esearch(db="pubmed", term=nquery, retmax=num_results, sort="pub_date") as handle:
         record = Entrez.read(handle)
 
     articles = fetch_papers(record.get("IdList", []))
-    save_to_mongo(articles, "PubMed")
+    save_to_mongo(articles, "PubMed", query)
     return articles
 
 

@@ -67,7 +67,7 @@ def search_google_scholar(query, num_results, year_range=None):
         print("No articles found for the query.")
     else:
         # Save to MongoDB
-        save_to_mongo(papers, "GoogleScholar")
+        save_to_mongo(papers, "GoogleScholar", query)
         print(f"{len(papers)} articles saved to MongoDB.")
 
     return papers
