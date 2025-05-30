@@ -35,17 +35,20 @@ def save_to_mongo(papers, source, topic):
         if not abstract.strip():
             continue
 
-        chunk = chunk_text(abstract, max_words=chunk_limit)
-        doc = {
-            "chunk_id": f"Paper{idx + 1}Chunk0",
-            "chunk_text": chunk,
-            "title": title,
-            "link": link,
-            "year": year,
-            "topic": topic,
-            "hierarchical_level": 2
-        }
-        collection.insert_one(doc)
+        # ➕ Alteração aqui: múltiplos chunks
+        chunks = chunk_text(abstract, max_words=chunk_limit)
+
+        for chunk_idx, chunk in enumerate(chunks):
+            doc = {
+                "chunk_id": f"Paper{idx + 1}Chunk{chunk_idx}",
+                "chunk_text": chunk,
+                "title": title,
+                "link": link,
+                "year": year,
+                "topic": topic,
+                "hierarchical_level": 2
+            }
+            collection.insert_one(doc)
 
     print("All chunked articles have been saved with the required structure!")
 

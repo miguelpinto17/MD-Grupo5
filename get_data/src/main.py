@@ -7,6 +7,7 @@ from modules.menu_utils import display_menu
 from modules.pubmed_utils import search_pubmed
 from modules.semanticscholar_utils import search_semanticscholar
 from modules.wikipedia_utils import search_wikipedia
+from modules.pdf_extraction import save_pdfs_to_mongodb
 
 
 def search_and_print(source, func, query, max_articles=1, year_range=(2020, 2025)):
@@ -34,7 +35,8 @@ def main():
         "3": ("Semantic Scholar", search_semanticscholar),
         "4": ("Wikipedia", search_wikipedia),
         "5": ("Google Scholar", search_google_scholar),
-        "6": ("All Sources", None)
+        "6": ("All Sources", None),
+        "7": ("Import PDFs", save_pdfs_to_mongodb)
     }
     
     while True:
@@ -42,18 +44,23 @@ def main():
         if choice.lower() == 'q':
             console.print("\n[bold red]🚪 Exiting...[/bold red]")
             break
+        elif choice == "7":
+            _, pdf_func = sources[choice]
+            folder = Prompt.ask("[bold white]Enter the path to the folder with PDFs[/bold white]", default="./pdfs")
+            topic = Prompt.ask("[bold white]Enter the topic for these documents[/bold white]", default="general")
+            chunk_limit = int(Prompt.ask("[bold white]Max words per chunk?[/bold white]", default="150"))
+            pdf_func(folder, topic, chunk_limit)
         elif choice in sources:
             max_articles = int(Prompt.ask("[bold white]How many articles per keyword?[/bold white]", default="1"))
             year_range = (2020, 2025)
-
             if choice == "6":
                 # All sources (except Wikipedia)
                 for topic, keywords in keywords_by_topic.items():
                     for keyword in keywords:
                         console.print(f"\n[bold cyan]🔎 Topic: [yellow]{topic}[/yellow] — Keyword: [green]{keyword}[/green][/bold cyan]")
                         for key, (source_name, search_func) in sources.items():
-                            if key in ["4", "6"]:
-                                continue  # Skip Wikipedia and this "All" key
+                            if key in ["4", "6", "7"]:
+                                continue  # Skip Wikipedia, PDFs and this "All" key
                             try:
                                 search_func(keyword, max_articles, year_range)
                             except Exception as e:

@@ -15,7 +15,8 @@ def display_menu():
         ("3", "Semantic Scholar"),
         ("4", "Wikipedia"),
         ("5", "Google Scholar"),
-        ("6", "All Sources (except Wikipedia)")
+        ("6", "All Sources (except Wikipedia)"),
+        ("7", "Import PDFs (manual general documents)"),
     ]
 
     for option, source in sources:
