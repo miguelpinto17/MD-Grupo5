@@ -35,31 +35,31 @@ Pergunta:Why is it important to tailor preventive medical check-ups to a patient
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-How can follow-up appointments help ensure adherence to treatment or lifestyle recommendations?
+Pergunta:How can follow-up appointments help ensure adherence to treatment or lifestyle recommendations?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-7,Claude-7
 Resultados com reasoningModel: ChatGpt-10, Gemini-8,Claude-9
 
-What evidence supports the implementation of national screening programs for common diseases?
+Pergunta:What evidence supports the implementation of national screening programs for common diseases?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-8,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-How does early detection through check-ups impact patient prognosis?
+Pergunta:How does early detection through check-ups impact patient prognosis?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-Are there specific populations that benefit more from regular preventive consultations?
+Pergunta:Are there specific populations that benefit more from regular preventive consultations?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-7
 
-What types of health conditions are most effectively prevented through routine check-ups?
+Pergunta:What types of health conditions are most effectively prevented through routine check-ups?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-How do medical professionals determine the appropriate frequency of preventive check-ups?
+Pergunta:How do medical professionals determine the appropriate frequency of preventive check-ups?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-9,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-8
 
-What challenges exist in ensuring equitable access to preventive healthcare services?
+Pergunta:What challenges exist in ensuring equitable access to preventive healthcare services?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
@@ -67,15 +67,15 @@ How do follow-up appointments contribute to the continuity of care in preventive
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-Can regular check-ups improve patient awareness and engagement in their own health?
+Pergunta:Can regular check-ups improve patient awareness and engagement in their own health?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-10,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-What is the role of digital tools and health records in enhancing preventive care monitoring?
+Pergunta:What is the role of digital tools and health records in enhancing preventive care monitoring?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-9,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-9
 
-How do public health campaigns influence participation in preventive medical check-ups?
+Pergunta:How do public health campaigns influence participation in preventive medical check-ups?
 Resultados sem reasoningModel: ChatGpt-10, Gemini-8,Claude-8
 Resultados com reasoningModel: ChatGpt-10, Gemini-10,Claude-7
 
